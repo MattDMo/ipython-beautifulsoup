@@ -2,7 +2,7 @@ IPython-BeautifulSoup
 =====================
 .. image:: https://travis-ci.org/Psycojoker/ipython-beautifulsoup.svg?branch=master
     :target: https://travis-ci.org/Psycojoker/ipython-beautifulsoup
-    
+
 IPython-BeautifulSoup is an IPython extension for displaying
 BeautifulSoup HTML/XML objects as prettified and syntax highlighted HTML
 blocks in IPython notebook and qtconsole.
@@ -136,9 +136,10 @@ In chronological order:
    `#3 <https://github.com/Psycojoker/ipython-beautifulsoup/pull/3>`__
 -  `MattDMo <https://github.com/MattDMo>`__ - pull request:
    `#5 <https://github.com/Psycojoker/ipython-beautifulsoup/pull/5>`__
+   `#6 <https://github.com/Psycojoker/ipython-beautifulsoup/pull/6>`__
 
 Don't hesitate to add yourself.
 
-.. |teaser| image:: teaser.png
-.. |.find| image:: 1.png
-.. |.find_all| image:: 2.png
+.. |teaser| image:: https://raw.githubusercontent.com/Psycojoker/ipython-beautifulsoup/master/teaser.png
+.. |.find| image:: https://raw.githubusercontent.com/Psycojoker/ipython-beautifulsoup/master/1.png
+.. |.find_all| image:: https://raw.githubusercontent.com/Psycojoker/ipython-beautifulsoup/master/2.png
