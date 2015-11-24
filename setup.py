@@ -15,7 +15,7 @@ with open(CHANGELOG_PATH, 'r') as f:
     CHANGELOG_TEXT = f.read()
 
 setup(name='ipython-beautifulsoup',
-      version='0.3',
+      version='0.4',
       description='Custom rendering of beautifulsoup objects \
       in IPython notebook and qtconsole',
       author='Laurent Peuch',
