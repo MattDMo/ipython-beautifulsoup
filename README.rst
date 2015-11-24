@@ -26,7 +26,7 @@ Installing IPython Notebook
 ---------------------------
 
 See the `IPython installation
-docs <http://ipython.org/ipython-doc/stable/install/index.html>`__ for
+docs <http://ipython.readthedocs.org/en/stable/install/index.html>`__ for
 details.
 
 To install IPython notebook or qtconsole as well, append ``notebook``
